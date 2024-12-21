@@ -1,6 +1,6 @@
-pandas==1.5.3
-streamlit==1.27.2
-numpy>=1.25.0
-nltk==3.8.1
-scikit-learn==1.2.2
-setuptools>=65.0.0
+pandas
+streamlit
+numpy
+nltk
+scikit-learn
+setuptools
